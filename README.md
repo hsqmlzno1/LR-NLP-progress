@@ -1,5 +1,5 @@
 # LRNLP
-Latest papers about Low-Resource Natural Language Processing (LR-NLP)
+Latest progress about Low-Resource Natural Language Processing (LR-NLP)
 
 
 Classification
